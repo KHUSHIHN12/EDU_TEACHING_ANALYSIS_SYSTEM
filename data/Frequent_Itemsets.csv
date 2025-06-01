@@ -1,0 +1,29 @@
+Frequent Itemset,Support
+Python programming,3
+"Data Structures, Python programming",3
+"C Language, Python programming",3
+"C Language, Data Structures, Python programming",3
+C Language,6
+"Advance mathematics, C Language",3
+"C Language, Linear Algebra",3
+"Advance mathematics, C Language, Linear Algebra",3
+"C Language, Discrete mathematics",3
+"Advance mathematics, C Language, Discrete mathematics",3
+"C Language, Discrete mathematics, Linear Algebra",3
+"Advance mathematics, C Language, Discrete mathematics, Linear Algebra",3
+"C Language, Data Structures",4
+Data Structures,7
+"Data Structures, Linear Algebra",2
+"Advance mathematics, Data Structures, Linear Algebra",2
+"Data Structures, Discrete mathematics, Linear Algebra",2
+"Advance mathematics, Data Structures, Discrete mathematics, Linear Algebra",2
+"Advance mathematics, Data Structures",4
+"Data Structures, Discrete mathematics",4
+"Advance mathematics, Data Structures, Discrete mathematics",4
+Linear Algebra,8
+"Advance mathematics, Linear Algebra",7
+"Advance mathematics, Discrete mathematics, Linear Algebra",7
+"Discrete mathematics, Linear Algebra",8
+Advance mathematics,9
+"Advance mathematics, Discrete mathematics",9
+Discrete mathematics,10

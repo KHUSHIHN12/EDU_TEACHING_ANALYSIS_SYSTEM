@@ -1,0 +1,8 @@
+Antecedent,Consequent,Confidence
+Linear Algebra,Advance mathematics,0.875
+"Advance mathematics, Linear Algebra",Discrete mathematics,1.0
+C Language,Python programming,0.5
+C Language,Data Structures,0.667
+Advance mathematics,"Data Structures, Discrete mathematics",0.444
+"Python programming, C Language",Data Structures,1.0
+"Data Structures, Python programming",Discrete mathematics,0.3
